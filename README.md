@@ -5,4 +5,6 @@ https://cdn.jsdelivr.net/gh/7hree/Surge@main/China.list
 
 https://cdn.jsdelivr.net/gh/7hree/Surge@main/Download.list
 
+https://cdn.jsdelivr.net/gh/7hree/Surge@main/Emby.list
+
 https://cdn.jsdelivr.net/gh/7hree/Surge@main/Global.list
